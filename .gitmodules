@@ -1,3 +1,6 @@
 [submodule "Quiz-App_basic"]
 	path = Quiz-App_basic
 	url = git@github.com:Aaditya-flutter/Quiz-App_basic.git
+[submodule "To-Do_Basic"]
+	path = To-Do_Basic
+	url = git@github.com:Aaditya-flutter/To-Do_Basic.git
