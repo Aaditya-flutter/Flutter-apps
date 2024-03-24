@@ -4,3 +4,6 @@
 [submodule "To-Do_Basic"]
 	path = To-Do_Basic
 	url = git@github.com:Aaditya-flutter/To-Do_Basic.git
+[submodule "To-Do_Intermediate"]
+	path = To-Do_Intermediate
+	url = git@github.com:Aaditya-flutter/To-Do_Intermediate.git
